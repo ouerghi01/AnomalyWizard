@@ -1,0 +1,6 @@
+https://realpython.com/python-nltk-sentiment-analysis/
+https://towardsdatascience.com/unsupervised-sentiment-analysis-a38bf1906483
+https://medium.com/@abhishekjainindore24/tf-idf-in-nlp-term-frequency-inverse-document-frequency-e05b65932f1d
+https://stackoverflow.com/questions/265960/best-way-to-strip-punctuation-from-a-string
+https://stackoverflow.com/questions/61185290/is-it-possible-to-do-sentiment-analysis-of-unlabelled-text-using-word2vec-model
+https://medium.com/@brijesh_soni/stacking-to-improve-model-performance-a-comprehensive-guide-on-ensemble-learning-in-python-9ed53c93ce28
